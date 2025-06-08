@@ -1,0 +1,224 @@
+{
+  "entries": [
+    {
+      "year": 2024,
+      "number": "1",
+      "category": "Tutorial",
+      "title": "Process-Scalable Low-Power Amplifiers",
+      "authors": "Minkyu Je",
+      "affiliation": "KAIST",
+      "direction": ["Amplifiers", "Low-Power"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2024,
+      "number": "2",
+      "category": "Tutorial",
+      "title": "Fundamentals of Digital and Digitally Assisted Linear Voltage Regulators",
+      "authors": "Arijit Raychowdhury",
+      "affiliation": "Georgia Institute of Technology",
+      "direction": ["Voltage Regulators", "Digital"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2024,
+      "number": "3",
+      "category": "Tutorial",
+      "title": "Fundamentals of Circuit Design for 2.5D/3D Integration",
+      "authors": "Kenny C. H. Hsieh",
+      "affiliation": "TSMC",
+      "direction": ["3D Integration", "Circuit Design"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2024,
+      "number": "4",
+      "category": "Tutorial",
+      "title": "Fundamentals of Power Management Systems: Constraints and Solutions",
+      "authors": "Frank Freemansing",
+      "affiliation": "Infineon",
+      "direction": ["Power Management", "System"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2024,
+      "number": "5",
+      "category": "Tutorial",
+      "title": "Calibration Techniques in PLLs",
+      "authors": "Salvatore Levantino",
+      "affiliation": "Politecnico di Milano",
+      "direction": ["PLLs", "Calibration"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2024,
+      "number": "6",
+      "category": "Tutorial",
+      "title": "Recent Circuit Advances for Resilience to Side-Channel Attacks",
+      "authors": "Shreyas Sen",
+      "affiliation": "Purdue University",
+      "direction": ["Security", "Circuit Design"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2024,
+      "number": "7",
+      "category": "Tutorial",
+      "title": "Fundamentals of Continuous-Time ADCs",
+      "authors": "Shanthi Pavan",
+      "affiliation": "IIT Madras",
+      "direction": ["ADCs", "Data-Converter"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2024,
+      "number": "8",
+      "category": "Tutorial",
+      "title": "3D Flash Memory from Technology to the System: Past, Present and Future Developments",
+      "authors": "Violante Moschiano",
+      "affiliation": "Intel",
+      "direction": ["Memory", "3D"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2024,
+      "number": "9",
+      "category": "Tutorial",
+      "title": "Domain-Specific Accelerators: From Hardware to Systems",
+      "authors": "Sophia Shao",
+      "affiliation": "UC Berkeley",
+      "direction": ["Accelerators", "Hardware"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2024,
+      "number": "10",
+      "category": "Tutorial",
+      "title": "Applications of Transceivers for Communication and Sensing",
+      "authors": "Giuseppe Gramegna",
+      "affiliation": "IMEC",
+      "direction": ["Transceivers", "Sensing"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2024,
+      "number": "1",
+      "category": "Short Course",
+      "title": "Introduction to Machine Learning Applications and Hardware-Aware Optimizations",
+      "authors": "Ranganathan Venkatesan",
+      "affiliation": "Nvidia",
+      "direction": ["Machine Learning", "Hardware"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2024,
+      "number": "2",
+      "category": "Short Course",
+      "title": "Architecture and Design Approaches to ML Hardware Acceleration: Performance Compute Environment",
+      "authors": "Leland Chang",
+      "affiliation": "IBM",
+      "direction": ["ML", "Hardware"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2024,
+      "number": "3",
+      "category": "Short Course",
+      "title": "Architecture and Design Approaches to ML Hardware Acceleration: Edge and Mobile Environments",
+      "authors": "Marian Verhelst",
+      "affiliation": "KU Leuven",
+      "direction": ["ML", "Edge"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2024,
+      "number": "4",
+      "category": "Short Course",
+      "title": "Emerging ML Accelerator Approaches: In Memory Computing Architectures",
+      "authors": "Naresh Shanbhag",
+      "affiliation": "University of Illinois Urbana-Champaign",
+      "direction": ["ML", "Memory"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2024,
+      "number": "1",
+      "category": "Forum",
+      "title": "Efficient Chiplets and Die-to-Die Communications",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Chiplet", "Die-to-Die"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2024,
+      "number": "2",
+      "category": "Forum",
+      "title": "Energy-Efficient AI: Computing Systems for Large-Language Models",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["AI", "Energy-Efficient"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2024,
+      "number": "3",
+      "category": "Forum",
+      "title": "Digitally Enhanced Analog Circuits: Trends & State-of-the-art Designs",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Analog", "Digital"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2024,
+      "number": "4",
+      "category": "Forum",
+      "title": "Intelligent Sensing",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Sensing", "Intelligent"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2024,
+      "number": "5",
+      "category": "Forum",
+      "title": "Recent Developments in High-Performance Frequency Synthesis Circuits and Systems",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Frequency Synthesis", "High-Performance"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2024,
+      "number": "6",
+      "category": "Forum",
+      "title": "Toward Next Generation of Highly Integrated Electrical and Optical Transceivers",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Transceivers", "Optical"],
+      "link": "#",
+      "sscsLink": ""
+    }
+  ]
+}

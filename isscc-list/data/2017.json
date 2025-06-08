@@ -1,0 +1,224 @@
+{
+  "entries": [
+    {
+      "year": 2017,
+      "number": "1",
+      "category": "Tutorial",
+      "title": "mm-Wave Frequency Generation and Synthesis in Silicon",
+      "authors": "Payam Heydari",
+      "affiliation": "UC Irvine",
+      "direction": ["RF", "Communications"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2017,
+      "number": "2",
+      "category": "Tutorial",
+      "title": "NAND Flash Memory Design and Architecture Trends",
+      "authors": "Sungdae Choi",
+      "affiliation": "SK hynix",
+      "direction": ["Memory", "Digital"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2017,
+      "number": "3",
+      "category": "Tutorial",
+      "title": "Readout Circuits for Physiological Signal Measurements",
+      "authors": "Long Yan",
+      "affiliation": "Samsung",
+      "direction": ["Biomedical", "Sensing"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2017,
+      "number": "4",
+      "category": "Tutorial",
+      "title": "Energy-Efficient Processors for Deep Learning",
+      "authors": "Marian Verhelst",
+      "affiliation": "KU Leuven",
+      "direction": ["AI/ML", "Digital"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2017,
+      "number": "5",
+      "category": "Tutorial",
+      "title": "Fundamentals of Time-Based Circuits",
+      "authors": "Matt Straayer",
+      "affiliation": "Maxim Integrated",
+      "direction": ["Analog", "Design"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2017,
+      "number": "6",
+      "category": "Tutorial",
+      "title": "Signal Integrity Analysis for Gb/s Links",
+      "authors": "Tony Chan Carusone",
+      "affiliation": "University of Toronto",
+      "direction": ["Communications", "Digital"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2017,
+      "number": "7",
+      "category": "Tutorial",
+      "title": "Design Trade-Offs in Digital Intensive PLLs",
+      "authors": "Ping-Ying Wang",
+      "affiliation": "CMOS-Crystal",
+      "direction": ["RF", "Digital"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2017,
+      "number": "8",
+      "category": "Tutorial",
+      "title": "Fundamentals of Class-D Amplifier Design",
+      "authors": "Xicheng Jiang",
+      "affiliation": "Broadcom",
+      "direction": ["Analog", "Power"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2017,
+      "number": "9",
+      "category": "Tutorial",
+      "title": "Integrated mm-Wave Transmitters and Receivers for Spatial-Filtering Arrays",
+      "authors": "Arun Natarajan",
+      "affiliation": "Oregon State University",
+      "direction": ["RF", "Communications"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2017,
+      "number": "10",
+      "category": "Tutorial",
+      "title": "Circuits and Technologies for Cell and Brain Interfacing",
+      "authors": "Nick Van Helleputte",
+      "affiliation": "IMEC",
+      "direction": ["Biomedical", "Sensing"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2017,
+      "number": "1",
+      "category": "Short Course",
+      "title": "MOSFET Modeling for Ultra-Low-Power Analog",
+      "authors": "Christian Enz",
+      "affiliation": "EPFL",
+      "direction": ["Analog", "Power"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2017,
+      "number": "2",
+      "category": "Short Course",
+      "title": "Integrated DC-DC Converters for Low-Power Applications: From Discrete Towards Fully-Integrated-CMOS Power Management",
+      "authors": "Michiel Steyaert",
+      "affiliation": "KU Leuven",
+      "direction": ["Power", "Analog"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2017,
+      "number": "3",
+      "category": "Short Course",
+      "title": "Ultra-Low-Power References and Oscillators",
+      "authors": "Dennis Sylvester",
+      "affiliation": "University of Michigan",
+      "direction": ["Analog", "Power"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2017,
+      "number": "4",
+      "category": "Short Course",
+      "title": "Micropower ADCs",
+      "authors": "Kofi Makinwa",
+      "affiliation": "Delft University of Technology",
+      "direction": ["Data Conversion", "Power"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2017,
+      "number": "1",
+      "category": "Forum",
+      "title": "Integrated Voltage Regulators for SoC and Emerging IoT Systems",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Power", "Systems"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2017,
+      "number": "2",
+      "category": "Forum",
+      "title": "High-Performance Frequency Generation for Wireless and Wireline Systems",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["RF", "Communications"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2017,
+      "number": "3",
+      "category": "Forum",
+      "title": "Beyond the Horizon of Conventional Computing: From Deep Learning to Neuromorphic Systems",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["AI/ML", "Emerging"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2017,
+      "number": "4",
+      "category": "Forum",
+      "title": "Wireless Low-Power Transceivers for Local and Wide-Area Networks",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["RF", "Communications"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2017,
+      "number": "5",
+      "category": "Forum",
+      "title": "Wireline Transceivers for Mega Data Centers: 50Gb/s and Beyond",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Communications", "Digital"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2017,
+      "number": "6",
+      "category": "Forum",
+      "title": "Pushing the Performance Limit in Data Converters",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Data Conversion", "Analog"],
+      "link": "#",
+      "sscsLink": ""
+    }
+  ]
+}

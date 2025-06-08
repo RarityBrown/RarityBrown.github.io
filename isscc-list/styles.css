@@ -1,0 +1,390 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+
+.container {
+    max-width: 95%;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.search-container {
+    display: flex;
+    margin-bottom: 15px;
+    gap: 10px;
+}
+
+#searchInput {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+#filterType, #yearSelector {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.controls-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.year-selector-container {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.year-selector-container label {
+    font-weight: bold;
+    color: #333;
+}
+
+#yearSelector {
+    min-width: 120px;
+}
+
+.reset-button {
+    padding: 8px 16px;
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #333;
+}
+
+.reset-button:hover {
+    background-color: #e0e0e0;
+}
+
+.table-container {
+    overflow-x: auto;
+}
+
+/* Column width settings */
+table th:nth-child(1), table td:nth-child(1) { width: 5%; } /* Year */
+table th:nth-child(2), table td:nth-child(2) { width: 10%; } /* Category */
+table th:nth-child(3), table td:nth-child(3) { width: 5%; } /* No. */
+table th:nth-child(4), table td:nth-child(4) { width: 25%; } /* Title */
+table th:nth-child(5), table td:nth-child(5) { width: 15%; } /* Authors */
+table th:nth-child(6), table td:nth-child(6) { width: 15%; } /* Affiliation */
+table th:nth-child(7), table td:nth-child(7) { width: 10%; } /* Direction */
+table th:nth-child(8), table td:nth-child(8) { width: 5%; } /* DOI/Link */
+table th:nth-child(9), table td:nth-child(9) { width: 10%; } /* SSCS Resource */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+th, td {
+    padding: 8px 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 14px;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+    position: sticky;
+    top: 0;
+}
+
+th.sortable {
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+}
+
+th.sortable:hover {
+    background-color: #e0e0e0;
+}
+
+.sort-indicator {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: 5px;
+    vertical-align: middle;
+}
+
+th.sort-asc .sort-indicator {
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid #333;
+}
+
+th.sort-desc .sort-indicator {
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #333;
+}
+
+tbody tr:hover {
+    background-color: #f9f9f9;
+}
+
+/* Excel-like Filter Controls */
+.controls-row {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 15px;
+}
+
+.th-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    padding-right: 5px;
+}
+
+.filter-icon {
+    cursor: pointer;
+    margin-left: 5px;
+    font-size: 14px;
+    color: #666;
+}
+
+.filter-icon:hover {
+    color: #333;
+}
+
+th.filterable {
+    position: relative;
+    overflow: visible; /* Allow dropdowns to be visible */
+}
+
+.filter-dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 100;
+    min-width: 200px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+.filter-dropdown.show {
+    display: block;
+}
+
+.filter-dropdown-content {
+    padding: 10px;
+}
+
+.filter-search {
+    margin-bottom: 10px;
+}
+
+.filter-search-input {
+    width: 100%;
+    padding: 6px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.filter-options {
+    max-height: 200px;
+    overflow-y: auto;
+    margin-bottom: 10px;
+    border: 1px solid #eee;
+}
+
+.filter-option {
+    padding: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.filter-option:hover {
+    background-color: #f5f5f5;
+}
+
+.filter-option label {
+    margin-left: 5px;
+    cursor: pointer;
+    user-select: none;
+    flex: 1;
+}
+
+.filter-actions {
+    display: flex;
+    justify-content: space-between;
+}
+
+.reset-button {
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 6px 12px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.2s;
+}
+
+.reset-button:hover {
+    background-color: #e0e0e0;
+}
+
+@media (max-width: 768px) {
+    th, td {
+        padding: 6px 8px;
+        font-size: 12px;
+    }
+    
+    .search-container {
+        flex-direction: column;
+    }
+}
+
+/* Year-based styling for better readability */
+tbody tr[data-year="2025"] {
+    background-color: #f8f8ff; /* Very light blue */
+}
+
+tbody tr[data-year="2024"] {
+    background-color: #f8fff8; /* Very light green */
+}
+
+tbody tr[data-year="2023"] {
+    background-color: #fff8f8; /* Very light red */
+}
+
+tbody tr[data-year="2022"] {
+    background-color: #fff8ff; /* Very light purple */
+}
+
+tbody tr[data-year="2021"] {
+    background-color: #fffff8; /* Very light yellow */
+}
+
+tbody tr[data-year="2020"] {
+    background-color: #f8ffff; /* Very light cyan */
+}
+
+tbody tr[data-year="2019"] {
+    background-color: #f9f9e0; /* Light cream */
+}
+
+tbody tr[data-year="2018"] {
+    background-color: #e0f9f9; /* Light mint */
+}
+
+tbody tr[data-year="2017"] {
+    background-color: #f9e0f9; /* Light lavender */
+}
+
+tbody tr[data-year="2016"] {
+    background-color: #ffeedd; /* Very light orange */
+}
+
+tbody tr[data-year="2015"] {
+    background-color: #e0e0f9; /* Light periwinkle */
+}
+
+tbody tr[data-year="2014"] {
+    background-color: #e0f9e0; /* Light honeydew */
+}
+
+tbody tr[data-year="2013"] {
+    background-color: #f9e0e0; /* Light misty rose */
+}
+
+tbody tr[data-year="2012"] {
+    background-color: #f0f0f0; /* Light gray */
+}
+
+tbody tr[data-year="2011"] {
+    background-color: #e8f4f8; /* Light sky */
+}
+
+tbody tr[data-year="2010"] {
+    background-color: #f8f4e8; /* Light sand */
+}
+
+/* Ensure hover effect still works with year-based styling */
+tbody tr:hover {
+    background-color: #e6e6e6 !important; /* Override year-based colors on hover */
+}
+
+/* Category-based styling for better readability */
+tbody tr[data-category="Tutorial"] td:nth-child(2) {
+    font-weight: bold;
+    color: #0066cc;
+    border-left: 3px solid #0066cc;
+    padding-left: 7px;
+}
+
+tbody tr[data-category="Short Course"] td:nth-child(2) {
+    font-weight: bold;
+    color: #006600;
+    border-left: 3px solid #006600;
+    padding-left: 7px;
+}
+
+tbody tr[data-category="Forum"] td:nth-child(2) {
+    font-weight: bold;
+    color: #990000;
+    border-left: 3px solid #990000;
+    padding-left: 7px;
+}
+
+/* Add subtle indicators to the entire row */
+tbody tr[data-category="Tutorial"] {
+    border-left: 1px solid #0066cc;
+}
+
+tbody tr[data-category="Short Course"] {
+    border-left: 1px solid #006600;
+}
+
+tbody tr[data-category="Forum"] {
+    border-left: 1px solid #990000;
+}
+
+/* Add subtle box-shadow to make rows stand out more */
+tbody tr[data-category="Tutorial"]:not(:hover) {
+    box-shadow: inset 0 0 0 1px rgba(0, 102, 204, 0.1);
+}
+
+tbody tr[data-category="Short Course"]:not(:hover) {
+    box-shadow: inset 0 0 0 1px rgba(0, 102, 0, 0.1);
+}
+
+tbody tr[data-category="Forum"]:not(:hover) {
+    box-shadow: inset 0 0 0 1px rgba(153, 0, 0, 0.1);
+}

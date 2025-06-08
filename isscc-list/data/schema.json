@@ -1,0 +1,20 @@
+{
+  "directions": [
+    "Analog",
+    "AI/ML",
+    "Biomedical",
+    "Communications",
+    "Data Conversion",
+    "Design",
+    "Digital",
+    "Emerging",
+    "Memory",
+    "Power",
+    "Quantum",
+    "RF",
+    "Security",
+    "Sensing",
+    "Systems"
+  ],
+  "years": [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010]
+}

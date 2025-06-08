@@ -1,0 +1,213 @@
+{
+  "entries": [
+    {
+      "year": 2011,
+      "number": "1",
+      "category": "Tutorial",
+      "title": "Integrated LC Oscillators",
+      "authors": "Pietro Andreani",
+      "affiliation": "EIT, Lund University",
+      "direction": [],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2011,
+      "number": "2",
+      "category": "Tutorial",
+      "title": "Embedded Memories for SoC: Overview of Design, Test, and Applications and Challenges in the Nano-Scale CMOS",
+      "authors": "Harold Pilo",
+      "affiliation": "IBM",
+      "direction": ["Memory"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2011,
+      "number": "3",
+      "category": "Tutorial",
+      "title": "Ultra Low-Power and Low-Voltage Digital-Circuit Design Techniques",
+      "authors": "Jos Huisken",
+      "affiliation": "Philips",
+      "direction": ["Digital", "Power"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2011,
+      "number": "4",
+      "category": "Tutorial",
+      "title": "Layout – The Other Half of Nanometer Analog Design",
+      "authors": "Jed Hurwitz",
+      "affiliation": "Gigle Networks",
+      "direction": ["Analog", "Design"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2011,
+      "number": "5",
+      "category": "Tutorial",
+      "title": "DPLL-Based Clock and Data Recovery",
+      "authors": "John T. Stonick",
+      "affiliation": "Synopsys",
+      "direction": ["Digital", "Communications"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2011,
+      "number": "6",
+      "category": "Tutorial",
+      "title": "Practical Power-Delay Design Trade-offs",
+      "authors": "Tim Fischer",
+      "affiliation": "AMD",
+      "direction": ["Power", "Design"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2011,
+      "number": "7",
+      "category": "Tutorial",
+      "title": "Distortion in Cellular Receivers",
+      "authors": "Sven Mattisson",
+      "affiliation": "Ericsson",
+      "direction": ["RF", "Communications"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2011,
+      "number": "8",
+      "category": "Tutorial",
+      "title": "Noise Analysis in Switched-Capacitor Circuits",
+      "authors": "Boris Murmann",
+      "affiliation": "Stanford University*",
+      "direction": ["Analog"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2011,
+      "number": "9",
+      "category": "Tutorial",
+      "title": "Interfacing Silicon with the Human Body: A Primer on Applications, Interface Circuits and Technologies for the Medical",
+      "authors": "Tim Denison",
+      "affiliation": "Medtronic",
+      "direction": ["Biomedical", "Sensing"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2011,
+      "number": "1",
+      "category": "Short Course",
+      "title": "System Requirements of RF Transceivers",
+      "authors": "Hooman Darabi",
+      "affiliation": "Broadcom",
+      "direction": ["RF", "Communications", "Systems"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2011,
+      "number": "2",
+      "category": "Short Course",
+      "title": "Implementation of Direct-Conversion Transceivers",
+      "authors": "Frank Op't Eynde",
+      "affiliation": "Audax Technologies",
+      "direction": ["RF", "Communications"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2011,
+      "number": "3",
+      "category": "Short Course",
+      "title": "Front-end Circuit Design for RF Transceivers",
+      "authors": "Behzad Razavi",
+      "affiliation": "UC Los Angeles",
+      "direction": ["RF", "Design"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2011,
+      "number": "4",
+      "category": "Short Course",
+      "title": "Recent Advances in RF Synthesis",
+      "authors": "Bogdan Staszewski",
+      "affiliation": "Delft University of Technology",
+      "direction": ["RF"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2011,
+      "number": "1",
+      "category": "Forum",
+      "title": "Advanced Transmitters for Wireless Infrastructure",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["RF", "Communications"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2011,
+      "number": "2",
+      "category": "Forum",
+      "title": "Ultra-Low Voltage VLSIs for Energy Efficient Systems",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Digital", "Power", "Systems"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2011,
+      "number": "3",
+      "category": "Forum",
+      "title": "Towards Personalized Medicine and Monitoring for Healthy Living",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Biomedical", "Sensing"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2011,
+      "number": "4",
+      "category": "Forum",
+      "title": "Design of \"Green\" High-Performance Processor Circuits",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Digital", "Power"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2011,
+      "number": "5",
+      "category": "Forum",
+      "title": "Image Sensors for 3D Capture",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Sensing"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2011,
+      "number": "6",
+      "category": "Forum",
+      "title": "High-Speed Transceivers: Standards, Challenges, and Future",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Communications", "Digital"],
+      "link": "",
+      "sscsLink": ""
+    }
+  ]
+}

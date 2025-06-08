@@ -1,0 +1,246 @@
+{
+  "entries": [
+    {
+      "year": 2022,
+      "number": "1",
+      "category": "Tutorial",
+      "title": "Analog Circuit Design in Bipolar-CMOS-DMOS (BCD) Technologies",
+      "authors": "Marco Berkhout",
+      "affiliation": "Goodix Technology",
+      "direction": ["Analog", "Design"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2022,
+      "number": "2",
+      "category": "Tutorial",
+      "title": "Fundamentals of High-Frequency DC-DC Converters",
+      "authors": "Kousuke Miyaji",
+      "affiliation": "Shinshu University",
+      "direction": ["Power", "Analog"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2022,
+      "number": "3",
+      "category": "Tutorial",
+      "title": "Noise-Shaping SAR ADCs",
+      "authors": "Yun-Shiang Shu",
+      "affiliation": "MediaTek",
+      "direction": ["Data Conversion", "Analog"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2022,
+      "number": "4",
+      "category": "Tutorial",
+      "title": "Fundamentals of Self-Sensing Processing Systems",
+      "authors": "Shidartha Das",
+      "affiliation": "Arm",
+      "direction": ["Sensing", "Systems"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2022,
+      "number": "5",
+      "category": "Tutorial",
+      "title": "Fundamentals of Process Monitors for Signoff-Oriented Circuit Design",
+      "authors": "Eric Jia-Wei Fang",
+      "affiliation": "Mediatek",
+      "direction": ["Design"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2022,
+      "number": "6",
+      "category": "Tutorial",
+      "title": "Wireless Power Transfer and Management for Medical Applications",
+      "authors": "Mehdi Kiani",
+      "affiliation": "The Pennsylvania State University",
+      "direction": ["Power", "Biomedical"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2022,
+      "number": "7",
+      "category": "Tutorial",
+      "title": "HBM DRAM and 3D Stacked Memory",
+      "authors": "Dong Uk Lee",
+      "affiliation": "SK hynix",
+      "direction": ["Memory"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2022,
+      "number": "8",
+      "category": "Tutorial",
+      "title": "Fundamentals of Mixed-Mode RF Transceivers",
+      "authors": "Jeff Walling",
+      "affiliation": "Virginia Tech",
+      "direction": ["RF", "Analog", "Communications"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2022,
+      "number": "9",
+      "category": "Tutorial",
+      "title": "Design Methodologies for Energy Harvesting Wireless Sensor Nodes",
+      "authors": "Sriram Vangal",
+      "affiliation": "Intel",
+      "direction": ["Design", "Power", "Sensing"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2022,
+      "number": "10",
+      "category": "Tutorial",
+      "title": "Fundamentals of mm-Wave Phased-Arrays",
+      "authors": "Bodhisatwa Sadhu",
+      "affiliation": "IBM",
+      "direction": ["RF"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2022,
+      "number": "11",
+      "category": "Tutorial",
+      "title": "Basics of Equalization Techniques: Channels, Equalization, and Circuits",
+      "authors": "Byungsup Kim",
+      "affiliation": "Pohang University of Science and Technology",
+      "direction": ["Analog", "Digital"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2022,
+      "number": "12",
+      "category": "Tutorial",
+      "title": "Advances in Digital vs. Analog AI Accelerators",
+      "authors": "Jae-sun Seo",
+      "affiliation": "Arizona State University",
+      "direction": ["AI/ML", "Digital", "Analog"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2022,
+      "number": "1",
+      "category": "Short Course",
+      "title": "Introduction to ADCs/DACs: Metrics, Topologies, Trade Space, and Applications",
+      "authors": "Boris Murmann",
+      "affiliation": "Stanford University*",
+      "direction": ["Data Conversion"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2022,
+      "number": "2",
+      "category": "Short Course",
+      "title": "Ultra-High-Data-Rate ADCs and DACs: Architectures and Implementations",
+      "authors": "Gabriele Manganaro",
+      "affiliation": "MediaTek",
+      "direction": ["Data Conversion"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2022,
+      "number": "3",
+      "category": "Short Course",
+      "title": "High-Precision and Low-Power ADCs",
+      "authors": "Pieter Harpe",
+      "affiliation": "Eindhoven University of Technology",
+      "direction": ["Data Conversion", "Low-Power"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2022,
+      "number": "4",
+      "category": "Short Course",
+      "title": "Emerging Data-Converter Concepts",
+      "authors": "Nan Sun",
+      "affiliation": "Tsinghua University",
+      "direction": ["Data Conversion", "Emerging"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2022,
+      "number": "1",
+      "category": "Forum",
+      "title": "Compute-in-X (CiX): Overcoming the data bottleneck in AI Processing",
+      "authors": null,
+      "affiliation": null,
+      "direction": ["AI/ML"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2022,
+      "number": "2",
+      "category": "Forum",
+      "title": "Chip Design for Low-Power, Robust and secure IoT Devices",
+      "authors": null,
+      "affiliation": null,
+      "direction": ["Design", "Low-Power", "Security"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2022,
+      "number": "3",
+      "category": "Forum",
+      "title": "The Path to 6G Architectures, Circuits, Technologies for Sub-THz Communications, Sensing and Imaging",
+      "authors": null,
+      "affiliation": null,
+      "direction": ["Communications", "Sensing", "Emerging"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2022,
+      "number": "4",
+      "category": "Forum",
+      "title": "Paving the Way to 200Gb/s Transceivers",
+      "authors": null,
+      "affiliation": null,
+      "direction": ["Communications"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2022,
+      "number": "5",
+      "category": "Forum",
+      "title": "How to Improve AI Efficiency Further: New Devices, Architectures and Algorithms",
+      "authors": null,
+      "affiliation": null,
+      "direction": ["AI/ML", "Emerging"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2022,
+      "number": "6",
+      "category": "Forum",
+      "title": "Computer Systems Under Attack - Paying the Performance Price for Protection",
+      "authors": null,
+      "affiliation": null,
+      "direction": ["Security", "Systems"],
+      "link": "#",
+      "sscsLink": ""
+    }
+  ]
+}

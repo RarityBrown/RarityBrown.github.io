@@ -1,0 +1,224 @@
+{
+  "entries": [
+    {
+      "year": 2018,
+      "number": "1",
+      "category": "Tutorial",
+      "title": "Low-Jitter PLLs for Wireless Transceivers",
+      "authors": "Xiang Gao",
+      "affiliation": "Credo Semiconductor",
+      "direction": ["RF", "Communications"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2018,
+      "number": "2",
+      "category": "Tutorial",
+      "title": "Nonvolatile Circuits for Memory, Logic, and Artificial Intelligence",
+      "authors": "Meng-Fan Chang",
+      "affiliation": "National Tsing-Hua University",
+      "direction": ["Memory", "AI/ML"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2018,
+      "number": "3",
+      "category": "Tutorial",
+      "title": "Basics of Quantum Computing",
+      "authors": "Edoardo Charbon",
+      "affiliation": "EPFL",
+      "direction": ["Quantum", "Emerging"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2018,
+      "number": "4",
+      "category": "Tutorial",
+      "title": "Error-Correcting Codes in 5G/NVM Applications",
+      "authors": "Hsie-Chia Chang",
+      "affiliation": "National Chiao Tung University",
+      "direction": ["Communications", "Memory"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2018,
+      "number": "5",
+      "category": "Tutorial",
+      "title": "Hybrid Design of Analog-to-Digital Converters",
+      "authors": "Seng-Pan (Ben) U",
+      "affiliation": "University of Macau",
+      "direction": ["Data Conversion", "Analog"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2018,
+      "number": "6",
+      "category": "Tutorial",
+      "title": "Single-Photon Detection in CMOS",
+      "authors": "Matteo Perenzoni",
+      "affiliation": "Fondazione Bruno Kessler",
+      "direction": ["Sensing", "Analog"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2018,
+      "number": "7",
+      "category": "Tutorial",
+      "title": "Basics of Adaptive and Resilient Circuits",
+      "authors": "Keith A. Bowman",
+      "affiliation": "Qualcomm",
+      "direction": ["Digital", "Design"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2018,
+      "number": "8",
+      "category": "Tutorial",
+      "title": "Fundamentals of Switched-Mode Power-Converter Design",
+      "authors": "Hoi Lee",
+      "affiliation": "The University of Texas at Dallas",
+      "direction": ["Power", "Analog"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2018,
+      "number": "9",
+      "category": "Tutorial",
+      "title": "Digital RF Transmitters",
+      "authors": "Renaldi Winoto",
+      "affiliation": "Tectus",
+      "direction": ["RF", "Digital"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2018,
+      "number": "10",
+      "category": "Tutorial",
+      "title": "ADC-Based Serial Links: Design and Analysis",
+      "authors": "Sam Palermo",
+      "affiliation": "Texas A&M University",
+      "direction": ["Data Conversion", "Communications"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2018,
+      "number": "1",
+      "category": "Short Course",
+      "title": "Introduction to Machine Learning and Inference",
+      "authors": "Gu-Yeon Wei",
+      "affiliation": "Harvard University",
+      "direction": ["AI/ML", "Digital"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2018,
+      "number": "2",
+      "category": "Short Course",
+      "title": "Algorithm and Implementation Co-Design for Learning and Inference",
+      "authors": "Marian Verhelst",
+      "affiliation": "KU Leuven",
+      "direction": ["AI/ML", "Digital"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2018,
+      "number": "3",
+      "category": "Short Course",
+      "title": "Efficient Edge Solutions for Deep Learning Applications",
+      "authors": "Vivienne Sze",
+      "affiliation": "MIT",
+      "direction": ["AI/ML", "Systems"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2018,
+      "number": "4",
+      "category": "Short Course",
+      "title": "Efficient Alternatives and Extensions to Deep-Learning-Based Solutions",
+      "authors": "Naveen Verma",
+      "affiliation": "Princeton University",
+      "direction": ["AI/ML", "Digital"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2018,
+      "number": "1",
+      "category": "Forum",
+      "title": "Intelligent Energy-Efficient Systems at the Edge of IoT",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Systems", "Power"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2018,
+      "number": "2",
+      "category": "Forum",
+      "title": "FinFETs & FDSOI – A Mixed Signal Circuit Designer's Perspective",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Analog", "Design"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2018,
+      "number": "3",
+      "category": "Forum",
+      "title": "Circuits and Architectures for Wireless Sensing, Radar and Imaging",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["RF", "Sensing"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2018,
+      "number": "4",
+      "category": "Forum",
+      "title": "Circuit and System Techniques for mm-Wave Multi-Antenna Systems",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["RF", "Communications"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2018,
+      "number": "5",
+      "category": "Forum",
+      "title": "Advanced Optical Communication: From Devices, Circuits, and Architectures to Algorithms",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Communications", "Systems"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2018,
+      "number": "6",
+      "category": "Forum",
+      "title": "Advances in Energy Efficient Analog Design",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Analog", "Power"],
+      "link": "#",
+      "sscsLink": ""
+    }
+  ]
+}

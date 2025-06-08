@@ -1,0 +1,224 @@
+{
+  "entries": [
+    {
+      "year": 2015,
+      "number": 1,
+      "category": "Tutorial",
+      "title": "Fundamentals of Modern RF Receivers",
+      "authors": "Antonio Liscidini",
+      "affiliation": "University of Toronto",
+      "direction": ["RF", "Communications"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2015,
+      "number": 2,
+      "category": "Tutorial",
+      "title": "Basics of DRAM Interfaces",
+      "authors": "Martin Brox",
+      "affiliation": "Micron",
+      "direction": ["Memory", "Digital"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2015,
+      "number": 3,
+      "category": "Tutorial",
+      "title": "Ultra-Low-Power Wireless Systems",
+      "authors": "Alison Burdett",
+      "affiliation": "Toumaz",
+      "direction": ["RF", "Power"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2015,
+      "number": 4,
+      "category": "Tutorial",
+      "title": "Low-Power Near-threshold Design",
+      "authors": "Dennis Sylvester",
+      "affiliation": "University of Michigan",
+      "direction": ["Digital", "Power"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2015,
+      "number": 5,
+      "category": "Tutorial",
+      "title": "High-Speed Current-Steering DACs",
+      "authors": "Jan Mulder",
+      "affiliation": "Broadcom",
+      "direction": ["Data Conversion", "Analog"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2015,
+      "number": 6,
+      "category": "Tutorial",
+      "title": "Clock and Data Recovery Architectures and Circuits",
+      "authors": "Pavan Kumar Hanumolu",
+      "affiliation": "University of Illinois",
+      "direction": ["Digital", "Communications"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2015,
+      "number": 7,
+      "category": "Tutorial",
+      "title": "Basics of Many-Core Processors",
+      "authors": "Vivek De",
+      "affiliation": "Intel",
+      "direction": ["Digital", "Systems"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2015,
+      "number": 8,
+      "category": "Tutorial",
+      "title": "Analog Techniques for Nano-power Circuits",
+      "authors": "Vadim Ivanov",
+      "affiliation": "Texas Instruments",
+      "direction": ["Analog", "Power"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2015,
+      "number": 9,
+      "category": "Tutorial",
+      "title": "Frequency Synthesizers for Wireless Transceivers",
+      "authors": "Woogeun Rhee",
+      "affiliation": "Tsinghua University",
+      "direction": ["RF", "Communications"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2015,
+      "number": 10,
+      "category": "Tutorial",
+      "title": "CMOS Sensors for 3D Imaging",
+      "authors": "David Stoppa",
+      "affiliation": "FBK",
+      "direction": ["Sensing", "Imaging"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2015,
+      "number": "1",
+      "category": "Short Course",
+      "title": "A Roadmap to Lower Supply Voltages – A System Perspective",
+      "authors": "Jan Rabaey",
+      "affiliation": "UC Berkeley",
+      "direction": ["Systems", "Power"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2015,
+      "number": "2",
+      "category": "Short Course",
+      "title": "Designing Ultra-Low-Voltage Analog and Mixed-Signal Circuits",
+      "authors": "Peter Kinget",
+      "affiliation": "Columbia University",
+      "direction": ["Analog", "Power"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2015,
+      "number": "3",
+      "category": "Short Course",
+      "title": "ADC Design in Scaled Technologies",
+      "authors": "Andrea Baschirotto",
+      "affiliation": "University of Milan-Bicocca",
+      "direction": ["Data Conversion", "Analog"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2015,
+      "number": "4",
+      "category": "Short Course",
+      "title": "Ultra-Low-Voltage RF Circuits and Transceivers",
+      "authors": "Hyunchol Shin",
+      "affiliation": "Kwangwoon University",
+      "direction": ["RF", "Power"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2015,
+      "number": "1",
+      "category": "Forum",
+      "title": "High-Speed Interleaved ADCs",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Data Conversion", "Digital"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2015,
+      "number": "2",
+      "category": "Forum",
+      "title": "Memory Trends: From Big Data to Wearable Devices",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Memory", "Systems"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2015,
+      "number": "3",
+      "category": "Forum",
+      "title": "Cutting the Last Wire – Advances in Wireless Power",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Power", "RF"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2015,
+      "number": "4",
+      "category": "Forum",
+      "title": "Building the Internet of Everything (IoE): Low-Power Techniques at the Circuit and System Levels",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Systems", "Power"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2015,
+      "number": "5",
+      "category": "Forum",
+      "title": "Advanced RF CMOS Transmitter Techniques",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["RF", "Communications"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2015,
+      "number": "6",
+      "category": "Forum",
+      "title": "I/O Design at 25Gb/s and Beyond: Enabling the Future Communication Infrastructure for Big Data",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Communications", "Digital"],
+      "link": "#",
+      "sscsLink": ""
+    }
+  ]
+}

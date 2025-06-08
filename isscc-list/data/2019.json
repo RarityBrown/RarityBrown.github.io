@@ -1,0 +1,224 @@
+{
+  "entries": [
+    {
+      "year": 2019,
+      "number": "1",
+      "category": "Tutorial",
+      "title": "Fundamentals of Integrated Radars",
+      "authors": "Brian Ginsburg",
+      "affiliation": "Texas Instruments",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2019,
+      "number": "2",
+      "category": "Tutorial",
+      "title": "Fundamentals of Power-Conversion Topologies",
+      "authors": "Robert Pilawa",
+      "affiliation": "UC Berkeley",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2019,
+      "number": "3",
+      "category": "Tutorial",
+      "title": "Advances and Prospects for In-Memory Computing",
+      "authors": "Naveen Verma",
+      "affiliation": "Princeton University",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2019,
+      "number": "4",
+      "category": "Tutorial",
+      "title": "Fundamentals of Efficient IoT Microcontrollers",
+      "authors": "James Myers",
+      "affiliation": "Arm",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2019,
+      "number": "5",
+      "category": "Tutorial",
+      "title": "Noise-Shaping in Data Converters",
+      "authors": "Venkatesh Srinivasan",
+      "affiliation": "Texas Instruments",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2019,
+      "number": "6",
+      "category": "Tutorial",
+      "title": "Basics of Clock-and-Data-Recovery Circuits",
+      "authors": "Amir Amirkhany",
+      "affiliation": "Samsung",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2019,
+      "number": "7",
+      "category": "Tutorial",
+      "title": "Hardware Security - from Basics to ASICs",
+      "authors": "Massimo Alioto",
+      "affiliation": "National University of Singapore",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2019,
+      "number": "8",
+      "category": "Tutorial",
+      "title": "Current-Sensing Techniques",
+      "authors": "Mahdi Kashmiri",
+      "affiliation": "Robert Bosch",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2019,
+      "number": "9",
+      "category": "Tutorial",
+      "title": "Calibration Techniques for Wireless Transceivers",
+      "authors": "David McLaurin",
+      "affiliation": "Analog Devices",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2019,
+      "number": "10",
+      "category": "Tutorial",
+      "title": "Low-Noise Sensor Interfaces",
+      "authors": "Pedram Lajevardi",
+      "affiliation": "Robert Bosch",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2019,
+      "number": "1",
+      "category": "Short Course",
+      "title": "Introduction to Phased-Array Technology from mm-Wave to Optics",
+      "authors": "Hossein Hashemi",
+      "affiliation": "University of Southern California",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2019,
+      "number": "2",
+      "category": "Short Course",
+      "title": "Scalable mm-Wave Phased Arrays for Imaging and 5G Communications",
+      "authors": "Bodhisatwa Sadhu",
+      "affiliation": "IBM",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2019,
+      "number": "3",
+      "category": "Short Course",
+      "title": "Challenges and Architectures for Large-Scale Next-Generation Phased Arrays and 5G Systems",
+      "authors": "Shahriar Shahramian",
+      "affiliation": "Nokia",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2019,
+      "number": "4",
+      "category": "Short Course",
+      "title": "Emerging Topics in Phased Arrays and the Path to THz",
+      "authors": "Ehsan Afshari",
+      "affiliation": "University of Michigan",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2019,
+      "number": "1",
+      "category": "Forum",
+      "title": "Sub-6GHz 5G Radio Circuits and Systems: From Concepts to Silicon",
+      "authors": null,
+      "affiliation": null,
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2019,
+      "number": "2",
+      "category": "Forum",
+      "title": "Memory-Centric Computing from IoT to Artificial Intelligence and Machine Learning",
+      "authors": null,
+      "affiliation": null,
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2019,
+      "number": "3",
+      "category": "Forum",
+      "title": "The Complete Advanced Driver-Assistance System (ADAS) Sensing Network",
+      "authors": null,
+      "affiliation": null,
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2019,
+      "number": "4",
+      "category": "Forum",
+      "title": "Intelligence at the Edge: How Can We Make Machine Learning More Energy Efficient?",
+      "authors": null,
+      "affiliation": null,
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2019,
+      "number": "5",
+      "category": "Forum",
+      "title": "56Gb/s to 112Gb/s and Beyond - Design Challenges and Solutions in Wireline Communications",
+      "authors": null,
+      "affiliation": null,
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2019,
+      "number": "6",
+      "category": "Forum",
+      "title": "The Right Tool for the Job: Application-Optimized Data Converters",
+      "authors": null,
+      "affiliation": null,
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    }
+  ]
+} 

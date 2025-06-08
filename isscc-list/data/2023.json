@@ -1,0 +1,257 @@
+{
+  "entries": [
+    {
+      "year": 2023,
+      "number": "1",
+      "category": "Tutorial",
+      "title": "Fundamentals of Frequency References",
+      "authors": "Danielle Griffith",
+      "affiliation": "Texas Instruments",
+      "direction": ["Frequency References"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2023,
+      "number": "2",
+      "category": "Tutorial",
+      "title": "Bridging RF and Power: An Introduction to Envelope Tracking Systems and Building Blocks",
+      "authors": "Ji-Seon Paek",
+      "affiliation": "Pusan National University",
+      "direction": ["RF", "Power", "Systems"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2023,
+      "number": "3",
+      "category": "Tutorial",
+      "title": "Fundamentals of Data Converters",
+      "authors": "Yun Chiu",
+      "affiliation": "University of Texas at Dallas",
+      "direction": ["Data Conversion"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2023,
+      "number": "4",
+      "category": "Tutorial",
+      "title": "Automotive System Design",
+      "authors": "Sugako Otani",
+      "affiliation": "Renesas Electronics",
+      "direction": ["Systems", "Design"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2023,
+      "number": "5",
+      "category": "Tutorial",
+      "title": "All-Digital PLLs: From Fundamental Concepts to Future Trends",
+      "authors": "Akihide Sai",
+      "affiliation": "Toshiba",
+      "direction": ["Digital"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2023,
+      "number": "6",
+      "category": "Tutorial",
+      "title": "Solid-State CMOS LiDAR Sensors",
+      "authors": "Seong-Jin Kim",
+      "affiliation": "Ulsan National Institute of Science and Technology",
+      "direction": ["Sensing"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2023,
+      "number": "7",
+      "category": "Tutorial",
+      "title": "Fundamentals of Ultra-Low Voltage Embedded Memory Design",
+      "authors": "Eric Karl",
+      "affiliation": "Intel",
+      "direction": ["Memory", "Design"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2023,
+      "number": "8",
+      "category": "Tutorial",
+      "title": "Role of Current-Mode Passive Mixers and N-Path Filters in RF Receivers",
+      "authors": "Masoud Babaie",
+      "affiliation": "Delft University of Technology",
+      "direction": ["RF"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2023,
+      "number": "9",
+      "category": "Tutorial",
+      "title": "Physical-Layer Security for Latency- and Energy-Constrained Integrated Systems",
+      "authors": "Rabia Tugce Yazicigil",
+      "affiliation": "Boston University",
+      "direction": ["Security", "Systems"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2023,
+      "number": "10",
+      "category": "Tutorial",
+      "title": "The Art of mm-Wave Design and Layout",
+      "authors": "Shahriar Shahramian",
+      "affiliation": "Nokia - Bell Labs",
+      "direction": ["Design", "RF"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2023,
+      "number": "11",
+      "category": "Tutorial",
+      "title": "Digital Equalization and Timing Recovery Techniques for ADC-DSP Based High-Speed Links",
+      "authors": "Masum Hossain",
+      "affiliation": "University of Alberta",
+      "direction": ["Digital", "Data Conversion"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2023,
+      "number": "12",
+      "category": "Tutorial",
+      "title": "Extending Processor Cores for Machine Learning",
+      "authors": "Luca Benini",
+      "affiliation": "ETH Zürich and UNIBO",
+      "direction": ["AI/ML"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2023,
+      "number": "1",
+      "category": "Short Course",
+      "title": "Introduction to Quantum Computing: Qubits, Gates, and Algorithms",
+      "authors": "William Oliver",
+      "affiliation": "MIT",
+      "direction": ["Quantum"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2023,
+      "number": "2",
+      "category": "Short Course",
+      "title": "Principles, Control/Readout Architectures,and Cryoelectronic Solutions",
+      "authors": "Sushil Subramanian",
+      "affiliation": "Intel",
+      "direction": ["Quantum"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2023,
+      "number": "3",
+      "category": "Short Course",
+      "title": "Superconducting Qubits: Principles, Control/Readout Architectures and Cryoelectronic Solutions",
+      "authors": "David Frank",
+      "affiliation": "IBM",
+      "direction": ["Quantum"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2023,
+      "number": "4",
+      "category": "Short Course",
+      "title": "Cryoelectronics for Quantum Computing: Technology, Circuit Design, and Future Directions",
+      "authors": "Joseph Bardin",
+      "affiliation": "University of Massachusetts Amherst",
+      "direction": ["Quantum"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2023,
+      "number": "1",
+      "category": "Forum",
+      "title": "Transceivers for Exascale: Towards Tbps/mm and sub-pJ/bit",
+      "authors": "Joseph Bardin",
+      "affiliation": "University of Massachusetts Amherst",
+      "direction": ["Communications"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2023,
+      "number": "2",
+      "category": "Forum",
+      "title": "The Power Behind Electrical Vehicles - Accelerating the Future of Automotive Technology",
+      "authors": null,
+      "affiliation": null,
+      "direction": ["Power", "Systems"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2023,
+      "number": "3",
+      "category": "Forum",
+      "title": "Efficient Wireless Power Amplification and Linearization",
+      "authors": null,
+      "affiliation": null,
+      "direction": ["Power", "RF"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2023,
+      "number": "4",
+      "category": "Forum",
+      "title": "Advancing Technologies for Extended Reality (XR) to Make the \"Metaverse\" Possible",
+      "authors": null,
+      "affiliation": null,
+      "direction": ["Emerging"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2023,
+      "number": "5",
+      "category": "Forum",
+      "title": "Extreme Data Converters and Their Peripherals",
+      "authors": null,
+      "affiliation": null,
+      "direction": ["Data Conversion"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2023,
+      "number": "6",
+      "category": "Forum",
+      "title": "The Future of Heterogeneous Multi-Core Architectures for AI and Other Specialized Processing",
+      "authors": null,
+      "affiliation": null,
+      "direction": ["AI/ML", "Systems"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2023,
+      "number": "7",
+      "category": "Forum",
+      "title": "Advanced Circuits and Technologies for Wearable and Implantable Devices",
+      "authors": null,
+      "affiliation": null,
+      "direction": ["Biomedical", "Emerging"],
+      "link": "#",
+      "sscsLink": ""
+    }
+  ]
+}

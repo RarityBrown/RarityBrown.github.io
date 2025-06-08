@@ -1,0 +1,213 @@
+{
+  "entries": [
+    {
+      "year": 2010,
+      "number": "1",
+      "category": "Tutorial",
+      "title": "Battery Management for Portable Devices",
+      "authors": "Francesco Rezzi",
+      "affiliation": "Marvell",
+      "direction": ["Power"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2010,
+      "number": "2",
+      "category": "Tutorial",
+      "title": "SoC Integration of RF Front-End Passives",
+      "authors": "Hooman Darabi",
+      "affiliation": "Broadcom",
+      "direction": ["RF"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2010,
+      "number": "3",
+      "category": "Tutorial",
+      "title": "Specifying and Testing ADCs",
+      "authors": "Aaron Buchwald",
+      "affiliation": "Mobius",
+      "direction": ["Data Conversion"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2010,
+      "number": "4",
+      "category": "Tutorial",
+      "title": "RF CMOS Power Amplifiers and Linearization Techniques",
+      "authors": "Domine M. W. Leenaerts",
+      "affiliation": "NXP",
+      "direction": ["RF", "Power"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2010,
+      "number": "5",
+      "category": "Tutorial",
+      "title": "Design of Energy-Efficient On-Chip Networks",
+      "authors": "Vladimir Stojanovic",
+      "affiliation": "MIT",
+      "direction": ["Digital", "Power", "Design"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2010,
+      "number": "6",
+      "category": "Tutorial",
+      "title": "Design of Smart Sensors",
+      "authors": "Kofi A.A. Makinwa",
+      "affiliation": "Delft University of Technology",
+      "direction": ["Sensing", "Design"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2010,
+      "number": "7",
+      "category": "Tutorial",
+      "title": "High-Speed Memory Interfaces",
+      "authors": "Yasuhiro Takai",
+      "affiliation": "Elpida Memory",
+      "direction": ["Memory", "Digital"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2010,
+      "number": "8",
+      "category": "Tutorial",
+      "title": "Power Gating",
+      "authors": "Stephen Kosonocky",
+      "affiliation": "AMD",
+      "direction": ["Power"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2010,
+      "number": "9",
+      "category": "Tutorial",
+      "title": "PLL Design in Nanometer CMOS",
+      "authors": "K. R. (Kumar) Lakshmikumar",
+      "affiliation": "Ikanos Communications",
+      "direction": ["RF", "Analog", "Design"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2010,
+      "number": "1",
+      "category": "Short Course",
+      "title": "The Role of Synthesizers in RF Transceivers",
+      "authors": "Behzad Razavi",
+      "affiliation": "UC Los Angeles",
+      "direction": ["RF", "Communications"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2010,
+      "number": "2",
+      "category": "Short Course",
+      "title": "Introduction to Phase-Locked Loops for Frequency Synthesis",
+      "authors": "John Cowles",
+      "affiliation": "Analog Devices",
+      "direction": ["RF", "Analog", "Design"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2010,
+      "number": "3",
+      "category": "Short Course",
+      "title": "Fractional-N PLLs",
+      "authors": "Ian Galton",
+      "affiliation": "UC San Diego",
+      "direction": ["RF", "Analog", "Design"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2010,
+      "number": "4",
+      "category": "Short Course",
+      "title": "Transistor-Level Design of Critical PLL Circuits",
+      "authors": "Peter Kinget",
+      "affiliation": "Columbia University",
+      "direction": ["RF", "Analog", "Design"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2010,
+      "number": "1",
+      "category": "Forum",
+      "title": "Silicon 3D Integration Technology Systems",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Emerging", "Systems", "Design"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2010,
+      "number": "2",
+      "category": "Forum",
+      "title": "Reconfigurable RF and Data Converters",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["RF", "Data Conversion", "Design"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2010,
+      "number": "3",
+      "category": "Forum",
+      "title": "Transceiver Circuits for Optical Communications",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Communications", "Analog", "Digital"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2010,
+      "number": "4",
+      "category": "Forum",
+      "title": "High-Speed Image Sensor Technologies",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Sensing", "Analog", "Digital"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2010,
+      "number": "5",
+      "category": "Forum",
+      "title": "Circuits for Portable Medical Electronic Systems",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Biomedical", "Systems", "Analog", "Digital"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2010,
+      "number": "6",
+      "category": "Forum",
+      "title": "Signal and Power Integrity for SoCs",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Power", "Digital", "Design", "Systems"],
+      "link": "",
+      "sscsLink": ""
+    }
+  ]
+}

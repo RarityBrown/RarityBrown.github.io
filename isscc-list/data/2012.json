@@ -1,0 +1,213 @@
+{
+  "entries": [
+    {
+      "year": 2012,
+      "number": "1",
+      "category": "Tutorial",
+      "title": "RF Mixers: Analysis and Design Trade-offs",
+      "authors": "Hooman Darabi",
+      "affiliation": "Broadcom",
+      "direction": ["Wireless"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2012,
+      "number": "2",
+      "category": "Tutorial",
+      "title": "Flash-Memory Based Circuit, System, and Platform Design",
+      "authors": "Mark Bauer",
+      "affiliation": "Micron",
+      "direction": ["Digital"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2012,
+      "number": "3",
+      "category": "Tutorial",
+      "title": "Mobile GHz Processor Design Techniques",
+      "authors": "Byeong-Gyu Nam",
+      "affiliation": "Chungnam National University",
+      "direction": ["Digital"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2012,
+      "number": "4",
+      "category": "Tutorial",
+      "title": "Wideband Delta-Sigma Modulators",
+      "authors": "Lucien Breems",
+      "affiliation": "NXP",
+      "direction": ["Data Converters"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2012,
+      "number": "5",
+      "category": "Tutorial",
+      "title": "Jitter: Basic and Advanced Concepts, Statistics, and Applications",
+      "authors": "Nicola Da Dalt",
+      "affiliation": "Infineon",
+      "direction": ["Digital"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2012,
+      "number": "6",
+      "category": "Tutorial",
+      "title": "Power Management Using Integrated Voltage Regulators",
+      "authors": "Tanay Karnik",
+      "affiliation": "Intel",
+      "direction": ["Power"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2012,
+      "number": "7",
+      "category": "Tutorial",
+      "title": "Digital Calibration for RF Transceivers",
+      "authors": "Albert Jerng",
+      "affiliation": "Mediatek",
+      "direction": ["Wireless"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2012,
+      "number": "8",
+      "category": "Tutorial",
+      "title": "Managing Offset and Flicker Noise",
+      "authors": "Axel Thomsen",
+      "affiliation": "",
+      "direction": ["Analog"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2012,
+      "number": "9",
+      "category": "Tutorial",
+      "title": "Getting In Touch with MEMS: The Electromechanical Interface",
+      "authors": "Aaron Partridge",
+      "affiliation": "SiTime",
+      "direction": ["MEMS"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2012,
+      "number": "1",
+      "category": "Short Course",
+      "title": "Ultra-Low-Power/Ultra-Low-Voltage Analog Circuit Design",
+      "authors": "Christian Enz",
+      "affiliation": "Swiss Center for Electronics and Microtechnology",
+      "direction": ["Analog"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2012,
+      "number": "2",
+      "category": "Short Course",
+      "title": "Power Limits for Amplifiers and Filters",
+      "authors": "Willy Sansen",
+      "affiliation": "KU Leuven*",
+      "direction": ["Analog"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2012,
+      "number": "3",
+      "category": "Short Course",
+      "title": "Energy Limits in Current A/D Converter Architectures",
+      "authors": "Boris Murmann",
+      "affiliation": "Stanford University*",
+      "direction": ["Data Converters"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2012,
+      "number": "4",
+      "category": "Short Course",
+      "title": "Low-Power and Low-Voltage DC-DC Converter Design",
+      "authors": "Philip Mok",
+      "affiliation": "Hong Kong University of Science and Technology",
+      "direction": ["Power"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2012,
+      "number": "1",
+      "category": "Forum",
+      "title": "Beamforming Techniques and RF Transceiver Design",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Wireless"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2012,
+      "number": "2",
+      "category": "Forum",
+      "title": "Robust VLSI Circuit Design & Systems for Sustainable Society",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Digital"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2012,
+      "number": "3",
+      "category": "Forum",
+      "title": "10-40 Gb/s I/O Design for Data Communications",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Wireline"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2012,
+      "number": "4",
+      "category": "Forum",
+      "title": "Computational Imaging",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Imagers"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2012,
+      "number": "5",
+      "category": "Forum",
+      "title": "Bioelectronics for Sustainable Healthcare",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Biomedical"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2012,
+      "number": "6",
+      "category": "Forum",
+      "title": "Power/Performance Optimization of Many-Core Processor SoCs",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Digital"],
+      "link": "",
+      "sscsLink": ""
+    }
+  ]
+}

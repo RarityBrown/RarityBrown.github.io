@@ -1,0 +1,224 @@
+{
+  "entries": [
+    {
+      "year": 2021,
+      "number": 1,
+      "category": "Tutorial",
+      "title": "Fundamentals of RF and mm-Wave Power-Amplifier Designs",
+      "authors": "Hua Wang",
+      "affiliation": "Georgia Institute of Technology",
+      "direction": [],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2021,
+      "number": 2,
+      "category": "Tutorial",
+      "title": "Fundamentals of Memory Subsystem Design for HPC and AI",
+      "authors": "Kyu-Hyoun (KH) Kim",
+      "affiliation": "IBM",
+      "direction": [],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2021,
+      "number": 3,
+      "category": "Tutorial",
+      "title": "Silicon Photonics - from Basics to ASICs",
+      "authors": "Sudip Shekhar",
+      "affiliation": "University of British Columbia",
+      "direction": [],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2021,
+      "number": 4,
+      "category": "Tutorial",
+      "title": "Measuring and Evaluating the Security Level of Circuits",
+      "authors": "Ingrid Verbauwhede",
+      "affiliation": "KU Leuven",
+      "direction": [],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2021,
+      "number": 5,
+      "category": "Tutorial",
+      "title": "Calibration Techniques in ADCs",
+      "authors": "Ahmed Ali",
+      "affiliation": "Analog Devices",
+      "direction": [],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2021,
+      "number": 6,
+      "category": "Tutorial",
+      "title": "Basics of DAC-Based Wireline Transmitters",
+      "authors": "Friedel Gerfers",
+      "affiliation": "Technische Universität Berlin",
+      "direction": [],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2021,
+      "number": 7,
+      "category": "Tutorial",
+      "title": "Basic Design Approaches to Accelerating Deep Neural Networks",
+      "authors": "Rangharajan Venkatesan",
+      "affiliation": "NVIDIA",
+      "direction": [],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2021,
+      "number": 8,
+      "category": "Tutorial",
+      "title": "On-Chip Interconnects: Basic Concepts, Designs, & Future Opportunities",
+      "authors": "Yvain Thonnart",
+      "affiliation": "CEA-List",
+      "direction": [],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2021,
+      "number": 9,
+      "category": "Tutorial",
+      "title": "Designing Amplifiers for Stability",
+      "authors": "Viola Schaffer",
+      "affiliation": "Texas Instruments",
+      "direction": [],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2021,
+      "number": 10,
+      "category": "Tutorial",
+      "title": "Fundamentals of Fully Integrated Voltage Regulators",
+      "authors": "Yan Lu",
+      "affiliation": "University of Macau*",
+      "direction": [],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2021,
+      "number": 11,
+      "category": "Tutorial",
+      "title": "Ultra-Low-Power Wireless-Receiver Design",
+      "authors": "David D. Wentzloff",
+      "affiliation": "University of Michigan",
+      "direction": [],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2021,
+      "number": "1",
+      "category": "Short Course",
+      "title": "PLL Architectures, Tradeoffs, and Key Application Considerations",
+      "authors": "Behzad Razavi",
+      "affiliation": "UC Los Angeles",
+      "direction": [],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2021,
+      "number": "2",
+      "category": "Short Course",
+      "title": "Clocking, Clock Distribution, and Clock Management in Wireline/Wireless Subsystems",
+      "authors": "Woogeun Rhee",
+      "affiliation": "Tsinghua University",
+      "direction": [],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2021,
+      "number": "3",
+      "category": "Short Course",
+      "title": "Processor Clock Generation, Distribution, and Clock Sensor/Management Loops",
+      "authors": "Mozhgan Mansuri",
+      "affiliation": "Intel",
+      "direction": [],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2021,
+      "number": "1",
+      "category": "Forum",
+      "title": "Striking the Balance Between Energy Efficiency & Flexibility: General-Purpose vs Special-Purpose ML Processors",
+      "authors": "Phillip Restle",
+      "affiliation": "IBM",
+      "direction": [],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2021,
+      "number": 2,
+      "category": "Forum",
+      "title": "Pushing the Frontiers in Accuracy for Data Converters and Analog Circuits",
+      "authors": "",
+      "affiliation": "",
+      "direction": [],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2021,
+      "number": 3,
+      "category": "Forum",
+      "title": "Silicon Technologies in the Fight Against Pandemics - From Point of Care to Computational Epidemiology",
+      "authors": "",
+      "affiliation": "",
+      "direction": [],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2021,
+      "number": 4,
+      "category": "Forum",
+      "title": "Electronics for a Quantum World",
+      "authors": "",
+      "affiliation": "",
+      "direction": [],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2021,
+      "number": 5,
+      "category": "Forum",
+      "title": "Enabling New System Architectures with 2.5D, 3D, and Chiplets",
+      "authors": "",
+      "affiliation": "",
+      "direction": [],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2021,
+      "number": 6,
+      "category": "Forum",
+      "title": "Optical and Electrical Transceivers for 400GbE and Beyond",
+      "authors": "",
+      "affiliation": "",
+      "direction": [],
+      "link": "",
+      "sscsLink": ""
+    }
+  ]
+}

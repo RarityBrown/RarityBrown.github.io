@@ -1,0 +1,224 @@
+{
+  "entries": [
+    {
+      "year": 2016,
+      "number": "1",
+      "category": "Tutorial",
+      "title": "Understanding Phase Noise in LC VCOs",
+      "authors": "Carlo Samori",
+      "affiliation": "Politecnico di Milano",
+      "direction": ["Analog", "RF"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2016,
+      "number": "2",
+      "category": "Tutorial",
+      "title": "Basics of Memory Tiers in Compute Systems",
+      "authors": "Rob Sprinkle",
+      "affiliation": "Google",
+      "direction": ["Memory", "Digital"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2016,
+      "number": "3",
+      "category": "Tutorial",
+      "title": "High-Voltage Power Devices, Converter Topologies and Applications",
+      "authors": "Yogesh Ramadass",
+      "affiliation": "Texas Instruments",
+      "direction": ["Power", "Analog"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2016,
+      "number": "4",
+      "category": "Tutorial",
+      "title": "System-Level Power-Management Techniques",
+      "authors": "David Flynn",
+      "affiliation": "Arm",
+      "direction": ["Power", "Systems"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2016,
+      "number": "5",
+      "category": "Tutorial",
+      "title": "Basics of SAR ADCs: Circuits & Architectures",
+      "authors": "Pieter Harpe",
+      "affiliation": "Eindhoven University of Technology",
+      "direction": ["Data Conversion", "Analog"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2016,
+      "number": "6",
+      "category": "Tutorial",
+      "title": "Optical Interconnects: Design and Analysis",
+      "authors": "Azita Emami",
+      "affiliation": "Caltech",
+      "direction": ["Communications", "Emerging"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2016,
+      "number": "7",
+      "category": "Tutorial",
+      "title": "Asynchronous Circuit Design and Methodology for Low-Power IoE",
+      "authors": "Edith Beigne",
+      "affiliation": "Kobe University",
+      "direction": ["Digital", "Systems"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2016,
+      "number": "8",
+      "category": "Tutorial",
+      "title": "Noise Simulation in Mixed-Signal SoCs",
+      "authors": "Makoto Nagata",
+      "affiliation": "Kobe University",
+      "direction": ["Analog", "Digital"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2016,
+      "number": "9",
+      "category": "Tutorial",
+      "title": "Circuit Design for Low-Power Wireless Applications",
+      "authors": "Alyosha Molnar",
+      "affiliation": "Cornell University",
+      "direction": ["RF", "Communications"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2016,
+      "number": "10",
+      "category": "Tutorial",
+      "title": "Circuit Design Considerations for Implantable Devices",
+      "authors": "Peng Cong",
+      "affiliation": "Google",
+      "direction": ["Biomedical", "Emerging"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2016,
+      "number": "1",
+      "category": "Short Course",
+      "title": "Processors for the Internet of Everything",
+      "authors": "Shichin Ouyang",
+      "affiliation": "MediaTek",
+      "direction": ["Digital", "Systems"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2016,
+      "number": "2",
+      "category": "Short Course",
+      "title": "Radios for IoT",
+      "authors": "Hooman Darabi",
+      "affiliation": "Broadcom",
+      "direction": ["RF", "Communications"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2016,
+      "number": "3",
+      "category": "Short Course",
+      "title": "Sensor interfaces for IoE",
+      "authors": "Nick Van Helleputte",
+      "affiliation": "IMEC",
+      "direction": ["Sensing", "Interfaces"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2016,
+      "number": "4",
+      "category": "Short Course",
+      "title": "Frequency References for IoE",
+      "authors": "Fabio Sebastiano",
+      "affiliation": "Delft University of Technology",
+      "direction": ["Analog", "RF"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2016,
+      "number": "1",
+      "category": "Forum",
+      "title": "Designing Secure Systems: Manufacturing, Circuits and Architectures",
+      "authors": "Vivek De",
+      "affiliation": "Intel",
+      "direction": ["Security", "Design"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2016,
+      "number": "2",
+      "category": "Forum",
+      "title": "Data-Converter Calibration and Dynamic-Matching Techniques",
+      "authors": "Kostas Doris",
+      "affiliation": "NXP",
+      "direction": ["Data Conversion"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2016,
+      "number": "3",
+      "category": "Forum",
+      "title": "Radio Architectures and Circuits Towards 5G",
+      "authors": "Stefano Pellerano",
+      "affiliation": "Intel",
+      "direction": ["RF", "Communications"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2016,
+      "number": "4",
+      "category": "Forum",
+      "title": "Emerging Short-Reach and High-Density Interconnect Solutions for Internet of Everything",
+      "authors": "Ichiro Fujimori",
+      "affiliation": "Broadcom",
+      "direction": ["Communications", "Emerging"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2016,
+      "number": "5",
+      "category": "Forum",
+      "title": "Advanced IC Design for Ultra-Low-Noise Sensing",
+      "authors": "Makoto Ikeda",
+      "affiliation": "The University of Tokyo",
+      "direction": ["Analog", "Sensing"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2016,
+      "number": "6",
+      "category": "Forum",
+      "title": "Circuit, Systems and Data Processing for Next-Generation Wearable and Implantable Medical Devices",
+      "authors": "Kush Gulati, Firat Yaziciogli Omni, GlaxoSmithKline",
+      "affiliation": "GlaxoSmithKline",
+      "direction": ["Biomedical", "Systems"],
+      "link": "#",
+      "sscsLink": ""
+    }
+  ]
+} 

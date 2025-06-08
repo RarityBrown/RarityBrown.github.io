@@ -1,0 +1,224 @@
+{
+  "entries": [
+    {
+      "year": 2013,
+      "number": "1",
+      "category": "Tutorial",
+      "title": "Basics of 60GHz LNA and PA Design in CMOS",
+      "authors": "Piet Wambacq",
+      "affiliation": "IMEC",
+      "direction": ["Wireless"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2013,
+      "number": "2",
+      "category": "Tutorial",
+      "title": "High-Bandwidth Memory Interface Design",
+      "authors": "Chulwoo Kim",
+      "affiliation": "Korea University",
+      "direction": ["Digital"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2013,
+      "number": "3",
+      "category": "Tutorial",
+      "title": "Energy Harvesters and Energy Processing Circuits",
+      "authors": "Yogesh Ramadass",
+      "affiliation": "Texas Instruments",
+      "direction": ["Power"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2013,
+      "number": "4",
+      "category": "Tutorial",
+      "title": "Circuit Design using FinFETs",
+      "authors": "Bing Sheu",
+      "affiliation": "TSMC",
+      "direction": ["Digital"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2013,
+      "number": "5",
+      "category": "Tutorial",
+      "title": "Simulation Techniques for Data Converter Design",
+      "authors": "Shanthi Pavan",
+      "affiliation": "Indian Institute of Technology",
+      "direction": ["Data Converters"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2013,
+      "number": "6",
+      "category": "Tutorial",
+      "title": "On-Chip Voltage and Timing Diagnostic Circuits",
+      "authors": "Frank O'Mahony",
+      "affiliation": "Intel",
+      "direction": ["Digital"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2013,
+      "number": "7",
+      "category": "Tutorial",
+      "title": "SoC Design Methodology for Improved Robustness",
+      "authors": "Anthony M. Hill",
+      "affiliation": "Texas Instruments",
+      "direction": ["Digital"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2013,
+      "number": "8",
+      "category": "Tutorial",
+      "title": "Wireless Transceiver System Design for Modern Communication Standards",
+      "authors": "Jason Vassiliou",
+      "affiliation": "Broadcom",
+      "direction": ["Wireless"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2013,
+      "number": "9",
+      "category": "Tutorial",
+      "title": "Design of Voltage References",
+      "authors": "Wing-Hung Ki",
+      "affiliation": "Hong Kong University of Science and Technology",
+      "direction": ["Analog"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2013,
+      "number": "10",
+      "category": "Tutorial",
+      "title": "Data and Power Telemetry for Implants",
+      "authors": "Maurits Ortmanns",
+      "affiliation": "University of Ulm",
+      "direction": ["Biomedical"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2013,
+      "number": "1",
+      "category": "Short Course",
+      "title": "IC's for Communications",
+      "authors": "Hooman Darabi",
+      "affiliation": "Broadcom",
+      "direction": ["Wireless"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2013,
+      "number": "2",
+      "category": "Short Course",
+      "title": "Design of Building Blocks for the RF Transceiver Front-End",
+      "authors": "John Long",
+      "affiliation": "Delft University of Technology",
+      "direction": ["Wireless"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2013,
+      "number": "3",
+      "category": "Short Course",
+      "title": "High-Frequency CMOS Power Generation and Phased-Array Transmitters",
+      "authors": "Ali Hajimiri",
+      "affiliation": "Caltech",
+      "direction": ["Wireless"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2013,
+      "number": "4",
+      "category": "Short Course",
+      "title": "mm-Wave Phased-Array Receivers",
+      "authors": "Ali Niknejad",
+      "affiliation": "UC Berkeley",
+      "direction": ["Wireless"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2013,
+      "number": "1",
+      "category": "Forum",
+      "title": "Advanced RF Transceiver Design Techniques",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Wireless"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2013,
+      "number": "2",
+      "category": "Forum",
+      "title": "VLSI Power-Management Techniques: Principles and Applications",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Power"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2013,
+      "number": "3",
+      "category": "Forum",
+      "title": "Emerging Technologies for Wireline Communication",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Wireline"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2013,
+      "number": "4",
+      "category": "Forum",
+      "title": "Scientific Imaging",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Imagers"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2013,
+      "number": "5",
+      "category": "Forum",
+      "title": "Frequency Generation and Clock Distribution",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Digital"],
+      "link": "",
+      "sscsLink": ""
+    },
+    {
+      "year": 2013,
+      "number": "6",
+      "category": "Forum",
+      "title": "Mixed-Signal/RF Design and Modeling in Next-Generation CMOS",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Analog"],
+      "link": "",
+      "sscsLink": ""
+    }
+  ]
+}

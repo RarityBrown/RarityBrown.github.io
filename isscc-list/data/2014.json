@@ -1,0 +1,224 @@
+{
+  "entries": [
+    {
+      "year": 2014,
+      "number": "1",
+      "category": "Tutorial",
+      "title": "Filtering in RF Transceivers",
+      "authors": "Borivoje Nikolic",
+      "affiliation": "UC Berkeley",
+      "direction": ["RF", "Communications"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2014,
+      "number": "2",
+      "category": "Tutorial",
+      "title": "Vmin Constraints and Optimization in VLSI Circuit Design",
+      "authors": "Leland Chang",
+      "affiliation": "IBM",
+      "direction": ["Digital", "Design"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2014,
+      "number": "3",
+      "category": "Tutorial",
+      "title": "3D Integration, Power Delivery, and Contactless Interconnect by Near-Field Coupling",
+      "authors": "Tadahiro Kuroda",
+      "affiliation": "Keio University",
+      "direction": ["Power", "Systems"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2014,
+      "number": "4",
+      "category": "Tutorial",
+      "title": "Power-Optimized Processor Design",
+      "authors": "Victor Zyuban",
+      "affiliation": "IBM",
+      "direction": ["Digital", "Power"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2014,
+      "number": "5",
+      "category": "Tutorial",
+      "title": "Peripheral Circuits for Analog-to-Digital Converters",
+      "authors": "Marco Corsi",
+      "affiliation": "Texas Instruments",
+      "direction": ["Data Conversion", "Analog"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2014,
+      "number": "6",
+      "category": "Tutorial",
+      "title": "Analog Front-End Design for Gb/s Wireline Receivers",
+      "authors": "Elad Alon",
+      "affiliation": "UC Berkeley",
+      "direction": ["Communications", "Analog"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2014,
+      "number": "7",
+      "category": "Tutorial",
+      "title": "Self-Adapting Design Techniques for Power-Constrained Processors",
+      "authors": "Jinuk Luke Shin",
+      "affiliation": "Oracle",
+      "direction": ["Digital", "Power"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2014,
+      "number": "8",
+      "category": "Tutorial",
+      "title": "Interference-Robust CMOS Radio-Receiver Techniques",
+      "authors": "Eric Klumperink",
+      "affiliation": "Twente University",
+      "direction": ["RF", "Communications"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2014,
+      "number": "9",
+      "category": "Tutorial",
+      "title": "Charge Pump and Capacitive DC-DC Converter Design",
+      "authors": "Tim Piessens, Anton Bakke",
+      "affiliation": "University of Leuven, Delft University",
+      "direction": ["Power", "Analog"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2014,
+      "number": "10",
+      "category": "Tutorial",
+      "title": "Design of Physical-to-Digital Converters",
+      "authors": "Michiel Pertijs",
+      "affiliation": "Delft University of Technology",
+      "direction": ["Data Conversion", "Sensing"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2014,
+      "number": "1",
+      "category": "Short Course",
+      "title": "The Biomedical Electrode-Tissue Interface: A Simple Explanation of a Complex Subject",
+      "authors": "Eric McAdams",
+      "affiliation": "INAS",
+      "direction": ["Biomedical", "Sensing"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2014,
+      "number": "2",
+      "category": "Short Course",
+      "title": "Low-Power Interface Circuits for Bio-Potential and Physiological Signal Acquisition",
+      "authors": "Firat Yazicioglu",
+      "affiliation": "IMEC",
+      "direction": ["Biomedical", "Analog"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2014,
+      "number": "3",
+      "category": "Short Course",
+      "title": "Design Strategies for Wearable Sensor Interface Circuits - from Electrodes to Signal Processing",
+      "authors": "Jerald Yoo",
+      "affiliation": "Masdar Institute of Science and Technology",
+      "direction": ["Biomedical", "Sensing"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2014,
+      "number": "4",
+      "category": "Short Course",
+      "title": "System Architectures and Strategies for Bi-directional Interfacing of Circuits with Physiological Systems",
+      "authors": "Tim Denison",
+      "affiliation": "Medtronic",
+      "direction": ["Biomedical", "Systems"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2014,
+      "number": "1",
+      "category": "Forum",
+      "title": "Digitally Assisted Analog and Analog-Assisted Digital in High-Performance Scaled CMOS Process",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Analog", "Digital"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2014,
+      "number": "2",
+      "category": "Forum",
+      "title": "3D Stacking Technologies for Image Sensors and Memories",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Sensing", "Memory"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2014,
+      "number": "3",
+      "category": "Forum",
+      "title": "Adaptive Design Techniques for Energy Efficiency",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Power", "Design"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2014,
+      "number": "4",
+      "category": "Forum",
+      "title": "mm-Wave Advances for Active Safety and Communication Systems",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["RF", "Communications"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2014,
+      "number": "5",
+      "category": "Forum",
+      "title": "Low-Power Radios for Sensor Networks",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["RF", "Power"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2014,
+      "number": "6",
+      "category": "Forum",
+      "title": "Energy-Efficient I/O Design for Next-Generation Systems",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Digital", "Power"],
+      "link": "#",
+      "sscsLink": ""
+    }
+  ]
+}

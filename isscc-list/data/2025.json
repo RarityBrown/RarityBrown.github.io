@@ -1,0 +1,224 @@
+{
+  "entries": [
+    {
+      "year": 2025,
+      "number": "1",
+      "category": "Tutorial",
+      "title": "Low-Noise Current Sensing",
+      "authors": "Jens Anders",
+      "affiliation": "University of Stuttgart",
+      "direction": ["Sensing", "Analog"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2025,
+      "number": "2",
+      "category": "Tutorial",
+      "title": "Fundamentals of DRAM I/O Standards and Circuits",
+      "authors": "Hyeran Kim",
+      "affiliation": "Samsung",
+      "direction": ["Memory", "Digital"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2025,
+      "number": "3",
+      "category": "Tutorial",
+      "title": "Fundamentals of Cryo-CMOS Circuits and Systems for Quantum Computing",
+      "authors": "Fabio Sebastiano",
+      "affiliation": "Delft University of Technology",
+      "direction": ["Quantum", "Emerging"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2025,
+      "number": "4",
+      "category": "Tutorial",
+      "title": "Fundamental Circuit Techniques for Nanopower and Energy-Harvesting Applications",
+      "authors": "Joey Sankman",
+      "affiliation": "Analog Devices",
+      "direction": ["Energy-Harvesting", "Analog"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2025,
+      "number": "5",
+      "category": "Tutorial",
+      "title": "Fundamentals of RF System Analysis for IC Designers",
+      "authors": "Raja Pullela",
+      "affiliation": "Maxlinear",
+      "direction": ["RF", "System"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2025,
+      "number": "6",
+      "category": "Tutorial",
+      "title": "Front-End Circuit Design for High-Speed Optical Transceivers",
+      "authors": "Peter Ossieur",
+      "affiliation": "IMEC and Ghent University",
+      "direction": ["Optical", "High-Speed"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2025,
+      "number": "7",
+      "category": "Tutorial",
+      "title": "High-Speed Analog-to-Digital Converters",
+      "authors": "Vanessa Chen",
+      "affiliation": "Carnegie Mellon University",
+      "direction": ["Data-Converter", "High-Speed"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2025,
+      "number": "8",
+      "category": "Tutorial",
+      "title": "Intelligent Neural Interfaces: Fundamentals and Future Directions",
+      "authors": "Mahsa Shoaran",
+      "affiliation": "EPFL",
+      "direction": ["Neural", "Interfaces"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2025,
+      "number": "9",
+      "category": "Tutorial",
+      "title": "Generative AI on Edge Devices: Models, Hardware and Systems",
+      "authors": "Paul Whatmough",
+      "affiliation": "Qualcomm",
+      "direction": ["AI", "Edge"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2025,
+      "number": "10",
+      "category": "Tutorial",
+      "title": "Wave Oscillator Design",
+      "authors": "Jun Yin",
+      "affiliation": "University of Macau",
+      "direction": ["Oscillator", "Wave"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2025,
+      "number": "1",
+      "category": "Short Course",
+      "title": "Evolution of CMOS Radio Architectures",
+      "authors": "Behzad Razavi",
+      "affiliation": "UCLA",
+      "direction": ["Radio", "CMOS"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2025,
+      "number": "2",
+      "category": "Short Course",
+      "title": "Multi-Antenna Radio Systems: MIMO and Phased Arrays",
+      "authors": "Arun Natarajan",
+      "affiliation": "Oregon State University",
+      "direction": ["Radio", "MIMO"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2025,
+      "number": "3",
+      "category": "Short Course",
+      "title": "Mixer-First and N-Path Receivers: Applications and Research Directions",
+      "authors": "Brian Bauta",
+      "affiliation": "University of Toronto",
+      "direction": ["Receiver", "Radio"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2025,
+      "number": "4",
+      "category": "Short Course",
+      "title": "Transmitters: Power Amplifiers and Digitally Assisted RF",
+      "authors": "Morteza Alavi",
+      "affiliation": "Delft University of Technology",
+      "direction": ["RF", "Transmitter"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2025,
+      "number": "1",
+      "category": "Forum",
+      "title": "Unlocking Innovation: Circuit Techniques and New Approaches for Die-to-Die Links and the Chiplet Ecosystem",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Chiplet", "Die-to-Die"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2025,
+      "number": "2",
+      "category": "Forum",
+      "title": "Wireless Communication Technology for Space Applications: From Satellite to Dish and Smartphones",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Wireless", "Space"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2025,
+      "number": "3",
+      "category": "Forum",
+      "title": "It's all About Data: Building Blocks, Compute, Movement and Integration",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Data", "Computing"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2025,
+      "number": "4",
+      "category": "Forum",
+      "title": "Highlights of Data-Converter R&D in the Past 5 Years: A Comprehensive Overview",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Data-Converter", "R&D"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2025,
+      "number": "5",
+      "category": "Forum",
+      "title": "Seeing the Future: Advances in Image and Vision Sensing",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Sensing", "Vision"],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2025,
+      "number": "6",
+      "category": "Forum",
+      "title": "Evolution of the Software-Defined Vehicle: Navigating Smart Cockpits and In-Car Hardware",
+      "authors": "",
+      "affiliation": "",
+      "direction": ["Vehicle", "Software-Defined"],
+      "link": "#",
+      "sscsLink": ""
+    }
+  ]
+}

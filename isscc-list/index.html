@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ISSCC List</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>ISSCC Tutorials, Short Courses, and Forums List</h1>
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search for entries...">
+            <select id="filterType">
+                <option value="all">All Fields</option>
+                <option value="year">Year</option>
+                <option value="category">Category</option>
+                <option value="number">No.</option>
+                <option value="title">Title</option>
+                <option value="authors">Authors</option>
+                <option value="affiliation">Affiliation</option>
+                <option value="direction">Direction</option>
+                <option value="sscsLink">SSCS Resource</option>
+            </select>
+        </div>
+        <div class="controls-row">
+            <div class="year-selector-container">
+                <label for="yearSelector">Year: </label>
+                <select id="yearSelector">
+                    <option value="all">All Years</option>
+                </select>
+            </div>
+            <button id="resetFilters" class="reset-button">Reset Filters</button>
+        </div>
+        <div class="table-container">
+            <table id="issccTable">
+                <thead>
+                    <tr>
+                        <th class="sortable filterable" data-field="year">
+                            <div class="th-content">
+                                <span>Year</span>
+                                <span class="sort-indicator"></span>
+                                <span class="filter-icon">⚙</span>
+                            </div>
+                            <div class="filter-dropdown" id="yearFilterDropdown">
+                                <div class="filter-dropdown-content">
+                                    <div class="filter-search">
+                                        <input type="text" placeholder="Search..." class="filter-search-input" data-field="year">
+                                    </div>
+                                    <div class="filter-options" id="yearFilterOptions">
+                                        <!-- Will be populated dynamically -->
+                                    </div>
+                                    <div class="filter-actions">
+                                        <button class="filter-apply" data-field="year">Close</button>
+                                        <button class="filter-clear" data-field="year">Clear</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </th>
+                        <th class="sortable filterable" data-field="category">
+                            <div class="th-content">
+                                <span>Category</span>
+                                <span class="sort-indicator"></span>
+                                <span class="filter-icon">⚙</span>
+                            </div>
+                            <div class="filter-dropdown" id="categoryFilterDropdown">
+                                <div class="filter-dropdown-content">
+                                    <div class="filter-search">
+                                        <input type="text" placeholder="Search..." class="filter-search-input" data-field="category">
+                                    </div>
+                                    <div class="filter-options" id="categoryFilterOptions">
+                                        <!-- Will be populated dynamically -->
+                                    </div>
+                                    <div class="filter-actions">
+                                        <button class="filter-apply" data-field="category">Close</button>
+                                        <button class="filter-clear" data-field="category">Clear</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </th>
+                        <th class="sortable" data-field="number">
+                            <div class="th-content">
+                                <span>No.</span>
+                                <span class="sort-indicator"></span>
+                            </div>
+                        </th>
+                        <th class="sortable" data-field="title">
+                            <div class="th-content">
+                                <span>Title</span>
+                                <span class="sort-indicator"></span>
+                            </div>
+                        </th>
+                        <th class="sortable filterable" data-field="authors">
+                            <div class="th-content">
+                                <span>Authors</span>
+                                <span class="sort-indicator"></span>
+                                <span class="filter-icon">⚙</span>
+                            </div>
+                            <div class="filter-dropdown" id="authorsFilterDropdown">
+                                <div class="filter-dropdown-content">
+                                    <div class="filter-search">
+                                        <input type="text" placeholder="Search..." class="filter-search-input" data-field="authors">
+                                    </div>
+                                    <div class="filter-options" id="authorsFilterOptions">
+                                        <!-- Will be populated dynamically -->
+                                    </div>
+                                    <div class="filter-actions">
+                                        <button class="filter-apply" data-field="authors">Close</button>
+                                        <button class="filter-clear" data-field="authors">Clear</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </th>
+                        <th class="sortable filterable" data-field="affiliation">
+                            <div class="th-content">
+                                <span>Affiliation</span>
+                                <span class="sort-indicator"></span>
+                                <span class="filter-icon">⚙</span>
+                            </div>
+                            <div class="filter-dropdown" id="affiliationFilterDropdown">
+                                <div class="filter-dropdown-content">
+                                    <div class="filter-search">
+                                        <input type="text" placeholder="Search..." class="filter-search-input" data-field="affiliation">
+                                    </div>
+                                    <div class="filter-options" id="affiliationFilterOptions">
+                                        <!-- Will be populated dynamically -->
+                                    </div>
+                                    <div class="filter-actions">
+                                        <button class="filter-apply" data-field="affiliation">Close</button>
+                                        <button class="filter-clear" data-field="affiliation">Clear</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </th>
+                        <th class="sortable filterable" data-field="direction">
+                            <div class="th-content">
+                                <span>Direction</span>
+                                <span class="sort-indicator"></span>
+                                <span class="filter-icon">⚙</span>
+                            </div>
+                            <div class="filter-dropdown" id="directionFilterDropdown">
+                                <div class="filter-dropdown-content">
+                                    <div class="filter-search">
+                                        <input type="text" placeholder="Search..." class="filter-search-input" data-field="direction">
+                                    </div>
+                                    <div class="filter-options" id="directionFilterOptions">
+                                        <!-- Will be populated dynamically -->
+                                    </div>
+                                    <div class="filter-actions">
+                                        <button class="filter-apply" data-field="direction">Close</button>
+                                        <button class="filter-clear" data-field="direction">Clear</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </th>
+                        <th>
+                            <div class="th-content">
+                                <span>DOI/Link</span>
+                            </div>
+                        </th>
+                        <th>
+                            <div class="th-content">
+                                <span>SSCS Resource</span>
+                            </div>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody">
+                    <!-- Table content will be loaded dynamically -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <script type="module" src="js/main.js"></script>
+</body>
+</html>

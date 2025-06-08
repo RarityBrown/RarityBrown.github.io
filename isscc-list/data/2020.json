@@ -1,0 +1,224 @@
+{
+  "entries": [
+    {
+      "year": 2020,
+      "number": "1",
+      "category": "Tutorial",
+      "title": "Fundamentals of Integrated Transformers: From Principles to Applications",
+      "authors": "Andrea Bevilacqua",
+      "affiliation": "University of Padova",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2020,
+      "number": "2",
+      "category": "Tutorial",
+      "title": "Analog Building Blocks of DC-DC Converters",
+      "authors": "Bernhard Wicht",
+      "affiliation": "University of Hannover",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2020,
+      "number": "3",
+      "category": "Tutorial",
+      "title": "Interface Circuits for Wearable and Implantable Sensing Systems",
+      "authors": "Patrick P. Mercier",
+      "affiliation": "UC San Diego",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2020,
+      "number": "4",
+      "category": "Tutorial",
+      "title": "Basics of Non-Volatile Memories: MRAM, RRAM, and PRAM",
+      "authors": "Fatih Hamzaoglu",
+      "affiliation": "Intel",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2020,
+      "number": "5",
+      "category": "Tutorial",
+      "title": "Fundamentals of Time-Interleaved ADCs",
+      "authors": "John P. Keane",
+      "affiliation": "Keysight Technologies",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2020,
+      "number": "6",
+      "category": "Tutorial",
+      "title": "Digital Fractional-N Phase-Locked-Loop Design",
+      "authors": "Mike Shuo-Wei Chen",
+      "affiliation": "University of Southern California",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2020,
+      "number": "7",
+      "category": "Tutorial",
+      "title": "Basics of Digital Low-Dropout (LDO) Integrated Voltage Regulators",
+      "authors": "Mingoo Seok",
+      "affiliation": "Columbia University",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2020,
+      "number": "8",
+      "category": "Tutorial",
+      "title": "Capacitive Sensor Interfaces",
+      "authors": "Man-Kay Law",
+      "affiliation": "University of Macau",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2020,
+      "number": "9",
+      "category": "Tutorial",
+      "title": "Fundamentals of Wireless Transceiver Circuits and Architectures (from 2G to 5G)",
+      "authors": "Venumadhav Bhagavatula",
+      "affiliation": "Samsung",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2020,
+      "number": "10",
+      "category": "Tutorial",
+      "title": "How to Understand and Evaluate Deep Learning Processors",
+      "authors": "Vivienne Sze",
+      "affiliation": "MIT",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2020,
+      "number": "1",
+      "category": "Short Course",
+      "title": "Device and Physical Design Considerations for Circuits in FinFET Technology",
+      "authors": "Alvin Leng Sun Loke",
+      "affiliation": "TSMC",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2020,
+      "number": "2",
+      "category": "Short Course",
+      "title": "Modeling and RF Design Considerations for Advanced CMOS Technology",
+      "authors": "Ali M. Niknejad",
+      "affiliation": "UC Berkeley",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2020,
+      "number": "3",
+      "category": "Short Course",
+      "title": "High-Speed and Mixed-Signal Circuit Design Techniques in FinFET Technology for Wireline and Optical Interface App",
+      "authors": "Jonathan E. Proesel",
+      "affiliation": "IBM",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2020,
+      "number": "4",
+      "category": "Short Course",
+      "title": "Embedded Memory and Support-Circuitry Design Considerations in Advanced CMOS Technology",
+      "authors": "Eric Karl",
+      "affiliation": "Intel",
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2020,
+      "number": "1",
+      "category": "Forum",
+      "title": "Millimeter-Wave 5G: From Soup to Nuts and Bolts",
+      "authors": null,
+      "affiliation": null,
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2020,
+      "number": "2",
+      "category": "Forum",
+      "title": "ML at the Extreme Edge: Machine Learning as the Killer IoT App",
+      "authors": null,
+      "affiliation": null,
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2020,
+      "number": "3",
+      "category": "Forum",
+      "title": "Machine Learning Processors: From High Performance Applications to Architectures and Benchmarking",
+      "authors": null,
+      "affiliation": null,
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2020,
+      "number": "4",
+      "category": "Forum",
+      "title": "Cutting Edge Advances in Electrical and Optical Transceiver Technologies",
+      "authors": null,
+      "affiliation": null,
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2020,
+      "number": "5",
+      "category": "Forum",
+      "title": "Power Management as an Enabler of Future SoC's",
+      "authors": null,
+      "affiliation": null,
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    },
+    {
+      "year": 2020,
+      "number": "6",
+      "category": "Forum",
+      "title": "Sensors for Health",
+      "authors": null,
+      "affiliation": null,
+      "direction": [],
+      "link": "#",
+      "sscsLink": ""
+    }
+  ]
+}
